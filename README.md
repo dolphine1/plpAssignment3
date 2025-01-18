@@ -2,7 +2,7 @@
 se-Day 3 - Environment Setup Assignment
 #Dart & Flutter
 
-What is the first step for installing Dart on a Windows machine?
+1. What is the first step for installing Dart on a Windows machine?
 A) Install Homebrew 
 B) Download the Dart SDK 
 C) Update your PATH 
@@ -10,7 +10,7 @@ D) Run Dart Doctor
 
 B
 
-Which command verifies the Dart installation on macOS?
+2. Which command verifies the Dart installation on macOS?
 A) dart --install 
 B) dart --check 
 C) dart --verify 
@@ -18,7 +18,7 @@ D) dart --version
 
 D
 
-What is the next step after downloading and extracting the Flutter SDK on Linux?
+3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 A) Install Homebrew 
 B) Update your PATH 
 C) Run Flutter Doctor 
@@ -26,7 +26,7 @@ D) Create a new Flutter project
 
 B
 
-What command is used to run a newly created Flutter app?
+4. What command is used to run a newly created Flutter app?
 A) flutter start 
 B) flutter build 
 C) flutter run 
@@ -36,7 +36,7 @@ C
 
 #Python Installation
 
-What is the first step to install Python on a Windows system?
+1. What is the first step to install Python on a Windows system?
 
 A) Run the installer without any customization 
 B) Download Python from the official website 
@@ -45,7 +45,7 @@ D) Install pip manually
 
 B
 
-Which option should you ensure is checked during Python installation on Windows?
+2. Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings 
 B) Install to a custom directory 
@@ -54,7 +54,7 @@ D) Install all available features
 
 C
 
-How do you verify Python installation on any system?
+3. How do you verify Python installation on any system?
 
 A) By running python --version 
 B) By restarting your computer 
@@ -63,7 +63,7 @@ D) By checking the Programs and Features in Control Panel
 
 A
 
-What command is used to install pip on macOS and Linux?
+4. What command is used to install pip on macOS and Linux?
 
 A) sudo install pip 
 B) pip install python 
@@ -72,7 +72,7 @@ D) python --install pip
 
 C
 
-What is the purpose of a virtual environment in Python?
+5. What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder 
 B) To install Python in a different directory 
@@ -83,7 +83,7 @@ C
 
 #MySQL Installation
 
-What is the first step to install MySQL on Windows?
+1. What is the first step to install MySQL on Windows?
 
 A) Download MySQL Shell 
 B) Download MySQL Installer from the official website 
@@ -92,7 +92,7 @@ D) Set up a root password
 
 B
 
-What setup type should you choose for a custom MySQL installation?
+2. What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default 
 B) Server Only 
@@ -101,7 +101,7 @@ D) Custom
 
 D
 
-Which products should you select during the MySQL installation?
+3. Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell 
 B) Only MySQL Server 
@@ -110,7 +110,7 @@ D) MySQL Workbench and MySQL Utilities
 
 A
 
-What is the purpose of setting a root password during MySQL installation?
+4. What is the purpose of setting a root password during MySQL installation?
 
 A) To create a user account for your MySQL server 
 B) To secure your MySQL installation with a super-secret password 
@@ -119,7 +119,7 @@ D) To allow multiple users to access MySQL
 
 B
 
-How do you begin managing your database after installing MySQL?
+5. How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins 
 B) Launch MySQL Workbench and connect to your MySQL Server 
